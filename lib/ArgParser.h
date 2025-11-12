@@ -5,6 +5,7 @@
 #include <unordered_map>
 #include <vector>
 #include <cstddef>
+#include <algorithm>
 
 #include "Args.h"
 
