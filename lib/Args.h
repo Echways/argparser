@@ -1,10 +1,13 @@
 #pragma once
+
 #include <cstddef>
 #include <iostream>
 #include <string>
 #include <vector>
 #include <any>
-#include <bits/types/siginfo_t.h>
+#include <bits/stdc++.h>
+#include <sys/types.h>
+#include <csignal>
 #include <cstddef>
 #include <cstdint>
 #include <string>

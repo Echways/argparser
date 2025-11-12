@@ -1,8 +1,9 @@
 #pragma once
+
 #include <string>
 #include <unordered_map>
 #include <map>
-#include <asm-generic/errno.h>
+#include <cerrno>
 #include <cctype>
 #include <cstddef>
 #include <cstdint>
