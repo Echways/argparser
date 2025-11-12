@@ -2,15 +2,9 @@
 
 #include <string>
 #include <unordered_map>
-#include <map>
-#include <cerrno>
-#include <cctype>
-#include <cstddef>
-#include <cstdint>
-#include <memory>
-#include <string>
 #include <vector>
-#include <algorithm>
+#include <cstddef>
+
 #include "Args.h"
 
 namespace ArgumentParser {
